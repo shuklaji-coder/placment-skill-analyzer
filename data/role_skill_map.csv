@@ -1,0 +1,12 @@
+Role,Required_Skills
+Software Engineer,"Java, Python, DSA, OOP, SQL, DBMS, Git/GitHub, Problem Solving, Communication"
+Associate Software Engineer,"Java, Python, DSA, SQL, OOP, Git/GitHub, Problem Solving"
+Full Stack Developer,"HTML, CSS, JavaScript, React, Node.js, SQL, REST API, Git/GitHub"
+Backend Developer,"Java, Spring Boot, REST API, SQL, DBMS, Git/GitHub, Cloud Computing"
+AI/ML Engineer,"Python, AI/ML, Data Science, SQL, Problem Solving"
+Data Analyst,"Python, SQL, Data Analytics, Communication"
+IoT Engineer,"C, C++, Python, IoT, Embedded Systems, Arduino, ESP32, Sensors, MQTT"
+Embedded Engineer,"C, C++, Embedded Systems, Sensors, Hardware Integration"
+Cybersecurity Analyst,"Computer Networks, Linux, Cybersecurity, Cryptography, SOC/SIEM, Problem Solving"
+Web Designer,"HTML, CSS, JavaScript, UI/UX, Figma"
+Technical Support,"Communication, Computer Networks, SQL, Problem Solving, Linux"

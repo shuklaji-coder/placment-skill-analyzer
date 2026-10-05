@@ -1,0 +1,63 @@
+﻿Skill,2024,2025,2026,Benchmark,Historical_Group
+Java,64.0,69.0,70.0,67.66666666666667,Java
+Python,61.0,65.0,68.0,64.66666666666667,Python
+C,,,,,No Historical Data
+C++,,,,,No Historical Data
+JavaScript,65.0,70.0,73.0,69.33333333333333,Web Development
+TypeScript,,,,,No Historical Data
+Kotlin,,,,,No Historical Data
+Dart,,,,,No Historical Data
+DSA,58.0,66.0,72.0,65.33333333333333,DSA
+OOP,58.0,66.0,72.0,65.33333333333333,DSA
+DBMS,63.0,68.0,69.0,66.66666666666667,SQL
+SQL,63.0,68.0,69.0,66.66666666666667,SQL
+Computer Networks,,,,,No Historical Data
+Operating Systems,,,,,No Historical Data
+Problem Solving,58.0,66.0,72.0,65.33333333333333,DSA
+HTML,65.0,70.0,73.0,69.33333333333333,Web Development
+CSS,65.0,70.0,73.0,69.33333333333333,Web Development
+React,52.0,62.0,68.0,60.666666666666664,React
+Node.js,65.0,70.0,73.0,69.33333333333333,Web Development
+Express.js,65.0,70.0,73.0,69.33333333333333,Web Development
+Next.js,65.0,70.0,73.0,69.33333333333333,Web Development
+REST API,65.0,70.0,73.0,69.33333333333333,Web Development
+Full Stack,65.0,70.0,73.0,69.33333333333333,Web Development
+Spring Boot,55.0,64.0,70.0,63.0,Spring Boot
+FastAPI,55.0,64.0,70.0,63.0,Spring Boot
+Django,55.0,64.0,70.0,63.0,Spring Boot
+Android,,,,,No Historical Data
+Flutter,,,,,No Historical Data
+AWS,45.0,58.0,64.0,55.666666666666664,Cloud/DevOps
+Azure,45.0,58.0,64.0,55.666666666666664,Cloud/DevOps
+Google Cloud,45.0,58.0,64.0,55.666666666666664,Cloud/DevOps
+Docker,45.0,58.0,64.0,55.666666666666664,Cloud/DevOps
+CI/CD,45.0,58.0,64.0,55.666666666666664,Cloud/DevOps
+Kubernetes,45.0,58.0,64.0,55.666666666666664,Cloud/DevOps
+Cloud Computing,45.0,58.0,64.0,55.666666666666664,Cloud/DevOps
+Git/GitHub,60.0,67.0,72.0,66.33333333333333,Git/GitHub
+AI/ML,48.0,60.0,65.0,57.666666666666664,AI/ML
+Data Science,48.0,60.0,65.0,57.666666666666664,AI/ML
+Data Analytics,48.0,60.0,65.0,57.666666666666664,AI/ML
+Generative AI,48.0,60.0,65.0,57.666666666666664,AI/ML
+NLP,48.0,60.0,65.0,57.666666666666664,AI/ML
+Prompt Engineering,48.0,60.0,65.0,57.666666666666664,AI/ML
+IoT,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+Arduino,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+ESP32,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+Raspberry Pi,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+Embedded Systems,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+Sensors,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+MQTT,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+PCB,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+Hardware Integration,60.0,63.0,67.0,63.333333333333336,IoT/Embedded
+Cybersecurity,45.0,52.0,58.0,51.666666666666664,Cybersecurity
+Ethical Hacking,45.0,52.0,58.0,51.666666666666664,Cybersecurity
+Cryptography,45.0,52.0,58.0,51.666666666666664,Cybersecurity
+Linux,45.0,52.0,58.0,51.666666666666664,Cybersecurity
+SOC/SIEM,45.0,52.0,58.0,51.666666666666664,Cybersecurity
+Network Security,45.0,52.0,58.0,51.666666666666664,Cybersecurity
+Communication,67.0,69.0,71.0,69.0,Communication
+Teamwork,67.0,69.0,71.0,69.0,Communication
+Aptitude,70.0,72.0,75.0,72.33333333333333,Aptitude
+UI/UX,65.0,70.0,73.0,69.33333333333333,Web Development
+Figma,65.0,70.0,73.0,69.33333333333333,Web Development

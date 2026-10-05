@@ -1,0 +1,479 @@
+﻿Roll_No,Student_Name,Skill,Gap,Gap_Level,Priority,Recommended_Topics,Suggested_Target_Role
+23-IoT01-27,ANSARI ZAID,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Cybersecurity Analyst
+23-IoT01-27,ANSARI ZAID,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Cybersecurity Analyst
+23-IoT01-27,ANSARI ZAID,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Cybersecurity Analyst
+23-IoT01-27,ANSARI ZAID,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Cybersecurity Analyst
+23-IoT01-27,ANSARI ZAID,Cryptography,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Symmetric/Asymmetric Encryption; Hashing; PKI; SSL/TLS; Digital Signatures,Cybersecurity Analyst
+23-IoT01-27,ANSARI ZAID,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Cybersecurity Analyst
+23-IoT01-27,ANSARI ZAID,Linux,31.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Linux Commands; Shell Scripting; File Permissions; Process Management; Networking Tools,Cybersecurity Analyst
+23-IoT01-27,ANSARI ZAID,SOC/SIEM,11.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),"SIEM Tools (Splunk, Wazuh); Log Analysis; Incident Response; Threat Detection; SOAR Basics",Cybersecurity Analyst
+23-IoT02-27,BITTHARIYA KRISHNA,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,UI/UX,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,Data Science,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,AI/ML Engineer
+23-IoT02-27,BITTHARIYA KRISHNA,AI/ML,17.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,AI/ML Engineer
+23-IoT03-27,DHARMIK CHANDRANSHU,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,Embedded Systems,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,Hardware Integration,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Web Designer
+23-IoT03-27,DHARMIK CHANDRANSHU,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Web Designer
+23-IoT04-27,GHORI AYAAN,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Technical Support
+23-IoT04-27,GHORI AYAAN,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Technical Support
+23-IoT04-27,GHORI AYAAN,Python,64.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Technical Support
+23-IoT04-27,GHORI AYAAN,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Technical Support
+23-IoT04-27,GHORI AYAAN,Cryptography,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Symmetric/Asymmetric Encryption; Hashing; PKI; SSL/TLS; Digital Signatures,Technical Support
+23-IoT04-27,GHORI AYAAN,Linux,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Linux Commands; Shell Scripting; File Permissions; Process Management; Networking Tools,Technical Support
+23-IoT04-27,GHORI AYAAN,SOC/SIEM,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"SIEM Tools (Splunk, Wazuh); Log Analysis; Incident Response; Threat Detection; SOAR Basics",Technical Support
+23-IoT04-27,GHORI AYAAN,Cybersecurity,31.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"Networking Basics; Linux; Security Tools (Nmap, Wireshark); SOC/SIEM; Cryptography; Vulnerability Assessment",Technical Support
+23-IoT04-27,GHORI AYAAN,Communication,29.0,High Gap,Priority 2 - High (High Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Technical Support
+23-IoT05-27,GUPTA ATUL,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Arduino,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Embedded Systems,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,IoT Engineer
+23-IoT05-27,GUPTA ATUL,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,IoT Engineer
+23-IoT05-27,GUPTA ATUL,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,IoT Engineer
+23-IoT05-27,GUPTA ATUL,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Java,47.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,IoT Engineer
+23-IoT05-27,GUPTA ATUL,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,IoT Engineer
+23-IoT05-27,GUPTA ATUL,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,IoT Engineer
+23-IoT05-27,GUPTA ATUL,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,IoT Engineer
+23-IoT05-27,GUPTA ATUL,REST API,29.33,High Gap,Priority 2 - High (High Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,IoT Engineer
+23-IoT05-27,GUPTA ATUL,ESP32,23.33,High Gap,Priority 2 - High (High Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Sensors,23.33,High Gap,Priority 2 - High (High Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,IoT Engineer
+23-IoT05-27,GUPTA ATUL,Cloud Computing,15.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,IoT Engineer
+23-IoT06-27,GUPTA HANIRAJ,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,DBMS,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,Cloud Computing,55.67,Critical Gap,Priority 1 - Urgent (Critical Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,Web Designer
+23-IoT06-27,GUPTA HANIRAJ,REST API,29.33,High Gap,Priority 2 - High (High Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Web Designer
+23-IoT07-27,HARALE ATHARV,CSS,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Software Engineer
+23-IoT07-27,HARALE ATHARV,HTML,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Software Engineer
+23-IoT07-27,HARALE ATHARV,JavaScript,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Software Engineer
+23-IoT07-27,HARALE ATHARV,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Software Engineer
+23-IoT07-27,HARALE ATHARV,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Software Engineer
+23-IoT07-27,HARALE ATHARV,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Software Engineer
+23-IoT07-27,HARALE ATHARV,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Software Engineer
+23-IoT07-27,HARALE ATHARV,DBMS,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Software Engineer
+23-IoT07-27,HARALE ATHARV,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Software Engineer
+23-IoT07-27,HARALE ATHARV,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Software Engineer
+23-IoT07-27,HARALE ATHARV,DSA,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,Software Engineer
+23-IoT07-27,HARALE ATHARV,OOP,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,Software Engineer
+23-IoT07-27,HARALE ATHARV,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Software Engineer
+23-IoT07-27,HARALE ATHARV,Python,64.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Software Engineer
+23-IoT07-27,HARALE ATHARV,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Software Engineer
+23-IoT08-27,HOWALE RUDRA,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,DSA,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,OOP,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Python,64.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Embedded Systems,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Cloud Computing,55.67,Critical Gap,Priority 1 - Urgent (Critical Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,Arduino,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,IoT Engineer
+23-IoT08-27,HOWALE RUDRA,IoT,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,IoT Engineer
+23-IoT09-27,JAIN PRINEET,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,Linux,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Linux Commands; Shell Scripting; File Permissions; Process Management; Networking Tools,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,SOC/SIEM,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"SIEM Tools (Splunk, Wazuh); Log Analysis; Incident Response; Threat Detection; SOAR Basics",Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Cybersecurity Analyst
+23-IoT09-27,JAIN PRINEET,Cryptography,31.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Symmetric/Asymmetric Encryption; Hashing; PKI; SSL/TLS; Digital Signatures,Cybersecurity Analyst
+23-IoT10-27,JHA OMWARDHAN,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,Node.js,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,REST API,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,Communication,49.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,DSA,45.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,OOP,45.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,Problem Solving,45.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Full Stack Developer
+23-IoT10-27,JHA OMWARDHAN,JavaScript,29.33,High Gap,Priority 2 - High (High Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Full Stack Developer
+23-IoT11-27,JHA PALLAVI,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Web Designer
+23-IoT11-27,JHA PALLAVI,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Web Designer
+23-IoT11-27,JHA PALLAVI,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Web Designer
+23-IoT11-27,JHA PALLAVI,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Web Designer
+23-IoT11-27,JHA PALLAVI,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Web Designer
+23-IoT11-27,JHA PALLAVI,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Web Designer
+23-IoT11-27,JHA PALLAVI,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Web Designer
+23-IoT11-27,JHA PALLAVI,Cryptography,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Symmetric/Asymmetric Encryption; Hashing; PKI; SSL/TLS; Digital Signatures,Web Designer
+23-IoT11-27,JHA PALLAVI,Linux,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Linux Commands; Shell Scripting; File Permissions; Process Management; Networking Tools,Web Designer
+23-IoT11-27,JHA PALLAVI,SOC/SIEM,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"SIEM Tools (Splunk, Wazuh); Log Analysis; Incident Response; Threat Detection; SOAR Basics",Web Designer
+23-IoT11-27,JHA PALLAVI,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Web Designer
+23-IoT11-27,JHA PALLAVI,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Web Designer
+23-IoT11-27,JHA PALLAVI,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Web Designer
+23-IoT11-27,JHA PALLAVI,Cybersecurity,31.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"Networking Basics; Linux; Security Tools (Nmap, Wireshark); SOC/SIEM; Cryptography; Vulnerability Assessment",Web Designer
+23-IoT11-27,JHA PALLAVI,JavaScript,29.33,High Gap,Priority 2 - High (High Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Web Designer
+23-IoT12-27,KADAM SALONI,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,Node.js,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,REST API,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,AI/ML Engineer
+23-IoT12-27,KADAM SALONI,Data Analytics,17.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,AI/ML Engineer
+23-IoT13-27,KAMBLEY VARNIKA,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,Embedded Systems,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,Hardware Integration,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,Arduino,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,AI/ML,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,IoT Engineer
+23-IoT13-27,KAMBLEY VARNIKA,IoT,23.33,High Gap,Priority 2 - High (High Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,IoT Engineer
+23-IoT14-27,DESHPANDE KAUSTUBH,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,Cloud Computing,55.67,Critical Gap,Priority 1 - Urgent (Critical Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,Figma,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,UI/UX,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,REST API,29.33,High Gap,Priority 2 - High (High Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Web Designer
+23-IoT14-27,DESHPANDE KAUSTUBH,DBMS,26.67,High Gap,Priority 2 - High (High Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Web Designer
+23-IoT15-27,KOKKODAN ZENITH,CSS,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,HTML,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,AI/ML,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Full Stack Developer
+23-IoT15-27,KOKKODAN ZENITH,React,20.67,High Gap,Priority 2 - High (High Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Node.js,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Arduino,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,Embedded Systems,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,IoT,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,Full Stack Developer
+23-IoT17-27,KOTIAN DAKSH,AI/ML,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Embedded Systems,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Node.js,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Arduino,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,IoT,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,Sensors,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,Full Stack Developer
+23-IoT18-27,KOTIAN DHRUV,AI/ML,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,Full Stack Developer
+23-IoT19-27,KUSHWAHA JANHVI,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,Cryptography,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Symmetric/Asymmetric Encryption; Hashing; PKI; SSL/TLS; Digital Signatures,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,Linux,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Linux Commands; Shell Scripting; File Permissions; Process Management; Networking Tools,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,SOC/SIEM,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"SIEM Tools (Splunk, Wazuh); Log Analysis; Incident Response; Threat Detection; SOAR Basics",AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,AI/ML,17.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,AI/ML Engineer
+23-IoT19-27,KUSHWAHA JANHVI,Cybersecurity,11.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),"Networking Basics; Linux; Security Tools (Nmap, Wireshark); SOC/SIEM; Cryptography; Vulnerability Assessment",AI/ML Engineer
+23-IoT20-27,MISHRA ANSH,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,REST API,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Full Stack Developer
+23-IoT20-27,MISHRA ANSH,Cloud Computing,35.67,Critical Gap,Priority 1 - Urgent (Critical Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,Full Stack Developer
+23-IoT21-27,MUDALIYAR VARUN,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,OOP,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,Java,47.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,DSA,45.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,Embedded Systems,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,AI/ML,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,AI/ML Engineer
+23-IoT21-27,MUDALIYAR VARUN,Hardware Integration,23.33,High Gap,Priority 2 - High (High Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,AI/ML Engineer
+23-IoT22-27,NAIK GAURAVI,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,Arduino,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,Hardware Integration,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,Embedded Systems,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,Embedded Engineer
+23-IoT22-27,NAIK GAURAVI,IoT,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,Embedded Engineer
+23-IoT23-27,YASH PARAB,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Data Analyst
+23-IoT23-27,YASH PARAB,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Data Analyst
+23-IoT23-27,YASH PARAB,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Data Analyst
+23-IoT23-27,YASH PARAB,DSA,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,Data Analyst
+23-IoT23-27,YASH PARAB,OOP,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,Data Analyst
+23-IoT23-27,YASH PARAB,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Data Analyst
+23-IoT23-27,YASH PARAB,Arduino,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,Data Analyst
+23-IoT23-27,YASH PARAB,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,Data Analyst
+23-IoT23-27,YASH PARAB,Embedded Systems,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,Data Analyst
+23-IoT23-27,YASH PARAB,IoT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,Data Analyst
+23-IoT23-27,YASH PARAB,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,Data Analyst
+23-IoT23-27,YASH PARAB,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,Data Analyst
+23-IoT23-27,YASH PARAB,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Data Analyst
+23-IoT23-27,YASH PARAB,Java,47.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Data Analyst
+23-IoT23-27,YASH PARAB,Python,24.67,High Gap,Priority 2 - High (High Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Data Analyst
+23-IoT24-27,PINGE HERAMB,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,Figma,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,UI/UX,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,AI/ML,17.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,AI/ML Engineer
+23-IoT24-27,PINGE HERAMB,Data Science,17.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,AI/ML Engineer
+23-IoT25-27,DHARAM SHAH,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Web Designer
+23-IoT25-27,DHARAM SHAH,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Web Designer
+23-IoT25-27,DHARAM SHAH,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Web Designer
+23-IoT25-27,DHARAM SHAH,Embedded Systems,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,Web Designer
+23-IoT25-27,DHARAM SHAH,Hardware Integration,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,Web Designer
+23-IoT25-27,DHARAM SHAH,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,Web Designer
+23-IoT25-27,DHARAM SHAH,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Web Designer
+23-IoT25-27,DHARAM SHAH,Figma,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Web Designer
+23-IoT25-27,DHARAM SHAH,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Web Designer
+23-IoT25-27,DHARAM SHAH,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Web Designer
+23-IoT25-27,DHARAM SHAH,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Web Designer
+23-IoT25-27,DHARAM SHAH,Data Analytics,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Web Designer
+23-IoT26-27,SHARMA ARNAV,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,Backend Developer
+23-IoT26-27,SHARMA ARNAV,AI/ML,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,Backend Developer
+23-IoT26-27,SHARMA ARNAV,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Backend Developer
+23-IoT26-27,SHARMA ARNAV,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Backend Developer
+23-IoT26-27,SHARMA ARNAV,Cloud Computing,15.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,Backend Developer
+23-IoT27-27,ANSHUMAN SINGH,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Python,64.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Arduino,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Hardware Integration,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Cryptography,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Symmetric/Asymmetric Encryption; Hashing; PKI; SSL/TLS; Digital Signatures,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Linux,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Linux Commands; Shell Scripting; File Permissions; Process Management; Networking Tools,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,SOC/SIEM,51.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"SIEM Tools (Splunk, Wazuh); Log Analysis; Incident Response; Threat Detection; SOAR Basics",IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Cybersecurity,31.67,Critical Gap,Priority 1 - Urgent (Critical Gap),"Networking Basics; Linux; Security Tools (Nmap, Wireshark); SOC/SIEM; Cryptography; Vulnerability Assessment",IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,Embedded Systems,23.33,High Gap,Priority 2 - High (High Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,IoT Engineer
+23-IoT27-27,ANSHUMAN SINGH,IoT,23.33,High Gap,Priority 2 - High (High Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,IoT Engineer
+23-IoT28-27,TIWARI ASHUTOSH,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,JavaScript,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Web Designer
+23-IoT28-27,TIWARI ASHUTOSH,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Web Designer
+23-IoT29-27,SHIVANGI VISHWAKARMA,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,AI/ML,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Cloud Computing,35.67,Critical Gap,Priority 1 - Urgent (Critical Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,Data Analyst
+23-IoT29-27,SHIVANGI VISHWAKARMA,Data Analytics,17.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Data Analyst
+23-IoT30-27,YADAV ANJALI,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,REST API,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,Data Analytics,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,CSS,29.33,High Gap,Priority 2 - High (High Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Full Stack Developer
+23-IoT30-27,YADAV ANJALI,HTML,29.33,High Gap,Priority 2 - High (High Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Full Stack Developer
+23-IoT31-27,RAHUL YADAV,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Java,67.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Python,64.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Arduino,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino IDE; Digital/Analog I/O; Sensors Interfacing; Serial Communication; Embedded C,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Spring Boot,63.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Git/GitHub,46.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Hardware Integration,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,IoT,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arduino Programming; ESP32; Sensors & Actuators; MQTT; Edge-to-Cloud Integration; ThingSpeak,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Embedded Systems,23.33,High Gap,Priority 2 - High (High Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,Embedded Engineer
+23-IoT31-27,RAHUL YADAV,Cloud Computing,15.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,Embedded Engineer
+23-IoT32-27,YADAV SHWETA,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Data Analyst
+23-IoT32-27,YADAV SHWETA,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Data Analyst
+23-IoT32-27,YADAV SHWETA,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Data Analyst
+23-IoT32-27,YADAV SHWETA,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Data Analyst
+23-IoT32-27,YADAV SHWETA,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Data Analyst
+23-IoT32-27,YADAV SHWETA,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Data Analyst
+23-IoT32-27,YADAV SHWETA,CSS,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Data Analyst
+23-IoT32-27,YADAV SHWETA,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Data Analyst
+23-IoT32-27,YADAV SHWETA,JavaScript,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Data Analyst
+23-IoT32-27,YADAV SHWETA,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Data Analyst
+23-IoT32-27,YADAV SHWETA,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Data Analyst
+23-IoT32-27,YADAV SHWETA,React,40.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Data Analyst
+23-IoT32-27,YADAV SHWETA,Data Analytics,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Data Analyst
+24-IoT33-27,AYUSH MIRIKAR,Figma,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Figma Basics; Components; Auto Layout; Prototyping; Design Collaboration,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,Node.js,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Node.js; Express; REST APIs; Authentication (JWT); MongoDB/Mongoose,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,UI/UX,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),UI/UX Principles; Figma; Design Systems; Prototyping; Responsive Design,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,DSA,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,React,60.67,Critical Gap,Priority 1 - Urgent (Critical Gap),JavaScript; React; Hooks; State Management; API Integration; Responsive Design,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,HTML,49.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTML5 Semantics; Forms; Accessibility; SEO Basics,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,Java,47.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,OOP,45.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,CSS,29.33,High Gap,Priority 2 - High (High Gap),Flexbox; Grid; Responsive Design; Animations; Tailwind CSS,Web Designer
+24-IoT33-27,AYUSH MIRIKAR,JavaScript,29.33,High Gap,Priority 2 - High (High Gap),ES6+; DOM Manipulation; Async/Await; Promises; Closures,Web Designer
+24-IoT34-27,GUPTA HARSH,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,Data Analyst
+24-IoT34-27,GUPTA HARSH,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,Data Analyst
+24-IoT34-27,GUPTA HARSH,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,Data Analyst
+24-IoT34-27,GUPTA HARSH,DSA,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,Data Analyst
+24-IoT34-27,GUPTA HARSH,OOP,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,Data Analyst
+24-IoT34-27,GUPTA HARSH,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,Data Analyst
+24-IoT34-27,GUPTA HARSH,AI/ML,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,Data Analyst
+24-IoT34-27,GUPTA HARSH,Data Analytics,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Excel; SQL; Power BI; Tableau; Data Storytelling; Dashboards,Data Analyst
+24-IoT34-27,GUPTA HARSH,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,Data Analyst
+24-IoT34-27,GUPTA HARSH,Java,47.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,Data Analyst
+24-IoT34-27,GUPTA HARSH,Python,24.67,High Gap,Priority 2 - High (High Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,Data Analyst
+24-IoT35-27,ABHISHEK SHARMA,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,DBMS,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,DSA,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,Python,64.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,Java,47.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,OOP,45.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,AI/ML Engineer
+24-IoT35-27,ABHISHEK SHARMA,AI/ML,17.67,Moderate Gap,Priority 3 - Moderate (Moderate Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,REST API,69.33,Critical Gap,Priority 1 - Urgent (Critical Gap),HTTP Methods; REST Design; Postman; Authentication; API Documentation,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Communication,69.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Public Speaking; Mock Interviews; Group Discussions; Resume Writing; Technical Presentation,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Git/GitHub,66.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Git; GitHub; Branching; Pull Requests; Merge; Conflict Resolution; CI/CD Basics,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,DSA,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Arrays; Strings; Linked Lists; Stacks; Queues; Trees; Graphs; Dynamic Programming; Problem Solving Practice,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,OOP,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Classes & Objects; Inheritance; Polymorphism; Abstraction; Encapsulation,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Python,64.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Data Science,57.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Cloud Computing,55.67,Critical Gap,Priority 1 - Urgent (Critical Gap),AWS; EC2; S3; RDS; Lambda; IAM; VPC; Deployment,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Java,47.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Core Java; OOP; Collections; Multithreading; Java 8; Spring Framework,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,DBMS,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),ER Diagrams; Normalization; Transactions; Indexing; SQL,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,SQL,46.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,AI/ML Engineer
+24-IoT36-27,SHUKLA ROHAN,Spring Boot,43.0,Critical Gap,Priority 1 - Urgent (Critical Gap),Spring Core; Spring Boot; REST API; JPA/Hibernate; Spring Security; PostgreSQL/MySQL; Microservices Basics,AI/ML Engineer
+24-IoT37-27,CHIRAG TAWADE,SQL,66.67,Critical Gap,Priority 1 - Urgent (Critical Gap),SQL Queries; Joins; Subqueries; Window Functions; Indexing; Database Design,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,Problem Solving,65.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Logical Reasoning; Algorithm Design; Coding Practice; Puzzle Solving,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,ESP32,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),ESP32 Setup; WiFi/BLE; MQTT Client; Deep Sleep; OTA Updates,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,Hardware Integration,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Sensor Interfacing; GPIO; I2C/SPI/UART; Power Management,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,MQTT,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),MQTT Protocol; Brokers (Mosquitto); Topics & QoS; Publish/Subscribe,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,Sensors,63.33,Critical Gap,Priority 1 - Urgent (Critical Gap),Temperature/Humidity Sensors; IR/Ultrasonic Sensors; Sensor Calibration; Data Acquisition,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,Python,44.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python Basics; OOP; NumPy; Pandas; Web Scraping; Automation,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,Embedded Systems,43.33,Critical Gap,Priority 1 - Urgent (Critical Gap),C Programming; Microcontrollers; GPIO; Interrupts; RTOS Basics; PCB Design,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,AI/ML,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Machine Learning; Model Evaluation; NLP; Generative AI,IoT Engineer
+24-IoT37-27,CHIRAG TAWADE,Data Science,37.67,Critical Gap,Priority 1 - Urgent (Critical Gap),Python; NumPy; Pandas; Data Cleaning; Visualization; Statistical Analysis,IoT Engineer

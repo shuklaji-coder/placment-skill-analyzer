@@ -1,0 +1,397 @@
+﻿Roll_No,Student_Name,Role,Match_Score,Missing_Skills
+23-IoT01-27,ANSARI ZAID,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT01-27,ANSARI ZAID,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT01-27,ANSARI ZAID,Full Stack Developer,2.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT01-27,ANSARI ZAID,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT01-27,ANSARI ZAID,AI/ML Engineer,4.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT01-27,ANSARI ZAID,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+23-IoT01-27,ANSARI ZAID,IoT Engineer,2.22,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT01-27,ANSARI ZAID,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT01-27,ANSARI ZAID,Cybersecurity Analyst,23.33,Computer Networks; Linux; Cryptography; SOC/SIEM; Problem Solving
+23-IoT01-27,ANSARI ZAID,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT01-27,ANSARI ZAID,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT03-27,DHARMIK CHANDRANSHU,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT03-27,DHARMIK CHANDRANSHU,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT03-27,DHARMIK CHANDRANSHU,Full Stack Developer,7.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT03-27,DHARMIK CHANDRANSHU,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT03-27,DHARMIK CHANDRANSHU,AI/ML Engineer,4.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT03-27,DHARMIK CHANDRANSHU,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT03-27,DHARMIK CHANDRANSHU,IoT Engineer,4.44,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT03-27,DHARMIK CHANDRANSHU,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT03-27,DHARMIK CHANDRANSHU,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT03-27,DHARMIK CHANDRANSHU,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT03-27,DHARMIK CHANDRANSHU,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT05-27,GUPTA ATUL,Software Engineer,11.11,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT05-27,GUPTA ATUL,Associate Software Engineer,11.43,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT05-27,GUPTA ATUL,Full Stack Developer,20.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT05-27,GUPTA ATUL,Backend Developer,22.86,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT05-27,GUPTA ATUL,AI/ML Engineer,16.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT05-27,GUPTA ATUL,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT05-27,GUPTA ATUL,IoT Engineer,26.67,C; C++; Python; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT05-27,GUPTA ATUL,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT05-27,GUPTA ATUL,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT05-27,GUPTA ATUL,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT05-27,GUPTA ATUL,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT02-27,BITTHARIYA KRISHNA,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT02-27,BITTHARIYA KRISHNA,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT02-27,BITTHARIYA KRISHNA,Full Stack Developer,10.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT02-27,BITTHARIYA KRISHNA,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT02-27,BITTHARIYA KRISHNA,AI/ML Engineer,16.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT02-27,BITTHARIYA KRISHNA,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+23-IoT02-27,BITTHARIYA KRISHNA,IoT Engineer,6.67,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT02-27,BITTHARIYA KRISHNA,Embedded Engineer,4.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT02-27,BITTHARIYA KRISHNA,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT02-27,BITTHARIYA KRISHNA,Web Designer,16.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT02-27,BITTHARIYA KRISHNA,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT04-27,GHORI AYAAN,Software Engineer,4.44,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT04-27,GHORI AYAAN,Associate Software Engineer,0.0,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT04-27,GHORI AYAAN,Full Stack Developer,0.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT04-27,GHORI AYAAN,Backend Developer,2.86,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT04-27,GHORI AYAAN,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT04-27,GHORI AYAAN,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT04-27,GHORI AYAAN,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT04-27,GHORI AYAAN,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT04-27,GHORI AYAAN,Cybersecurity Analyst,10.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT04-27,GHORI AYAAN,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT04-27,GHORI AYAAN,Technical Support,16.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT07-27,HARALE ATHARV,Software Engineer,0.0,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT07-27,HARALE ATHARV,Associate Software Engineer,0.0,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT07-27,HARALE ATHARV,Full Stack Developer,0.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT07-27,HARALE ATHARV,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT07-27,HARALE ATHARV,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT07-27,HARALE ATHARV,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT07-27,HARALE ATHARV,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT07-27,HARALE ATHARV,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT07-27,HARALE ATHARV,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT07-27,HARALE ATHARV,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT07-27,HARALE ATHARV,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT09-27,JAIN PRINEET,Software Engineer,4.44,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT09-27,JAIN PRINEET,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT09-27,JAIN PRINEET,Full Stack Developer,12.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT09-27,JAIN PRINEET,Backend Developer,5.71,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT09-27,JAIN PRINEET,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT09-27,JAIN PRINEET,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+23-IoT09-27,JAIN PRINEET,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT09-27,JAIN PRINEET,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT09-27,JAIN PRINEET,Cybersecurity Analyst,26.67,Computer Networks; Linux; Cryptography; SOC/SIEM; Problem Solving
+23-IoT09-27,JAIN PRINEET,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT09-27,JAIN PRINEET,Technical Support,16.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT08-27,HOWALE RUDRA,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT08-27,HOWALE RUDRA,Associate Software Engineer,0.0,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT08-27,HOWALE RUDRA,Full Stack Developer,0.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT08-27,HOWALE RUDRA,Backend Developer,2.86,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT08-27,HOWALE RUDRA,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT08-27,HOWALE RUDRA,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT08-27,HOWALE RUDRA,IoT Engineer,4.44,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT08-27,HOWALE RUDRA,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT08-27,HOWALE RUDRA,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT08-27,HOWALE RUDRA,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT08-27,HOWALE RUDRA,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT10-27,JHA OMWARDHAN,Software Engineer,17.78,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT10-27,JHA OMWARDHAN,Associate Software Engineer,17.14,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT10-27,JHA OMWARDHAN,Full Stack Developer,22.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT10-27,JHA OMWARDHAN,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT10-27,JHA OMWARDHAN,AI/ML Engineer,16.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT10-27,JHA OMWARDHAN,Data Analyst,15.0,Python; SQL; Data Analytics; Communication
+23-IoT10-27,JHA OMWARDHAN,IoT Engineer,11.11,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT10-27,JHA OMWARDHAN,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT10-27,JHA OMWARDHAN,Cybersecurity Analyst,6.67,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT10-27,JHA OMWARDHAN,Web Designer,16.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT10-27,JHA OMWARDHAN,Technical Support,16.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT06-27,GUPTA HANIRAJ,Software Engineer,0.0,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT06-27,GUPTA HANIRAJ,Associate Software Engineer,0.0,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT06-27,GUPTA HANIRAJ,Full Stack Developer,27.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT06-27,GUPTA HANIRAJ,Backend Developer,5.71,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT06-27,GUPTA HANIRAJ,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT06-27,GUPTA HANIRAJ,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT06-27,GUPTA HANIRAJ,IoT Engineer,4.44,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT06-27,GUPTA HANIRAJ,Embedded Engineer,4.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT06-27,GUPTA HANIRAJ,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT06-27,GUPTA HANIRAJ,Web Designer,36.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT06-27,GUPTA HANIRAJ,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT15-27,KOKKODAN ZENITH,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT15-27,KOKKODAN ZENITH,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT15-27,KOKKODAN ZENITH,Full Stack Developer,10.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT15-27,KOKKODAN ZENITH,Backend Developer,5.71,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT15-27,KOKKODAN ZENITH,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT15-27,KOKKODAN ZENITH,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT15-27,KOKKODAN ZENITH,IoT Engineer,2.22,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT15-27,KOKKODAN ZENITH,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT15-27,KOKKODAN ZENITH,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT15-27,KOKKODAN ZENITH,Web Designer,4.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT15-27,KOKKODAN ZENITH,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT13-27,KAMBLEY VARNIKA,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT13-27,KAMBLEY VARNIKA,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT13-27,KAMBLEY VARNIKA,Full Stack Developer,0.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT13-27,KAMBLEY VARNIKA,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT13-27,KAMBLEY VARNIKA,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT13-27,KAMBLEY VARNIKA,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+23-IoT13-27,KAMBLEY VARNIKA,IoT Engineer,13.33,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT13-27,KAMBLEY VARNIKA,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT13-27,KAMBLEY VARNIKA,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT13-27,KAMBLEY VARNIKA,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT13-27,KAMBLEY VARNIKA,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT14-27,DESHPANDE KAUSTUBH,Software Engineer,8.89,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT14-27,DESHPANDE KAUSTUBH,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT14-27,DESHPANDE KAUSTUBH,Full Stack Developer,15.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT14-27,DESHPANDE KAUSTUBH,Backend Developer,14.29,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT14-27,DESHPANDE KAUSTUBH,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT14-27,DESHPANDE KAUSTUBH,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT14-27,DESHPANDE KAUSTUBH,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT14-27,DESHPANDE KAUSTUBH,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT14-27,DESHPANDE KAUSTUBH,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT14-27,DESHPANDE KAUSTUBH,Web Designer,20.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT14-27,DESHPANDE KAUSTUBH,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT12-27,KADAM SALONI,Software Engineer,13.33,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT12-27,KADAM SALONI,Associate Software Engineer,11.43,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT12-27,KADAM SALONI,Full Stack Developer,20.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT12-27,KADAM SALONI,Backend Developer,17.14,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT12-27,KADAM SALONI,AI/ML Engineer,24.0,Python; Data Science; SQL; Problem Solving
+23-IoT12-27,KADAM SALONI,Data Analyst,20.0,Python; SQL; Data Analytics; Communication
+23-IoT12-27,KADAM SALONI,IoT Engineer,8.89,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT12-27,KADAM SALONI,Embedded Engineer,4.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT12-27,KADAM SALONI,Cybersecurity Analyst,6.67,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT12-27,KADAM SALONI,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT12-27,KADAM SALONI,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT11-27,JHA PALLAVI,Software Engineer,0.0,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT11-27,JHA PALLAVI,Associate Software Engineer,0.0,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT11-27,JHA PALLAVI,Full Stack Developer,12.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT11-27,JHA PALLAVI,Backend Developer,2.86,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT11-27,JHA PALLAVI,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT11-27,JHA PALLAVI,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT11-27,JHA PALLAVI,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT11-27,JHA PALLAVI,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT11-27,JHA PALLAVI,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT11-27,JHA PALLAVI,Web Designer,16.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT11-27,JHA PALLAVI,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT21-27,MUDALIYAR VARUN,Software Engineer,11.11,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT21-27,MUDALIYAR VARUN,Associate Software Engineer,11.43,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT21-27,MUDALIYAR VARUN,Full Stack Developer,2.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT21-27,MUDALIYAR VARUN,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT21-27,MUDALIYAR VARUN,AI/ML Engineer,12.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT21-27,MUDALIYAR VARUN,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT21-27,MUDALIYAR VARUN,IoT Engineer,6.67,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT21-27,MUDALIYAR VARUN,Embedded Engineer,12.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT21-27,MUDALIYAR VARUN,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT21-27,MUDALIYAR VARUN,Web Designer,4.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT21-27,MUDALIYAR VARUN,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT19-27,KUSHWAHA JANHVI,Software Engineer,11.11,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT19-27,KUSHWAHA JANHVI,Associate Software Engineer,11.43,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT19-27,KUSHWAHA JANHVI,Full Stack Developer,2.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT19-27,KUSHWAHA JANHVI,Backend Developer,8.57,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT19-27,KUSHWAHA JANHVI,AI/ML Engineer,16.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT19-27,KUSHWAHA JANHVI,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT19-27,KUSHWAHA JANHVI,IoT Engineer,6.67,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT19-27,KUSHWAHA JANHVI,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT19-27,KUSHWAHA JANHVI,Cybersecurity Analyst,13.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT19-27,KUSHWAHA JANHVI,Web Designer,8.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT19-27,KUSHWAHA JANHVI,Technical Support,12.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT17-27,KOTIAN DAKSH,Software Engineer,11.11,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT17-27,KOTIAN DAKSH,Associate Software Engineer,11.43,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT17-27,KOTIAN DAKSH,Full Stack Developer,15.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT17-27,KOTIAN DAKSH,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT17-27,KOTIAN DAKSH,AI/ML Engineer,12.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT17-27,KOTIAN DAKSH,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT17-27,KOTIAN DAKSH,IoT Engineer,13.33,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT17-27,KOTIAN DAKSH,Embedded Engineer,12.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT17-27,KOTIAN DAKSH,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT17-27,KOTIAN DAKSH,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT17-27,KOTIAN DAKSH,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT18-27,KOTIAN DHRUV,Software Engineer,11.11,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT18-27,KOTIAN DHRUV,Associate Software Engineer,11.43,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT18-27,KOTIAN DHRUV,Full Stack Developer,15.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT18-27,KOTIAN DHRUV,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT18-27,KOTIAN DHRUV,AI/ML Engineer,12.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT18-27,KOTIAN DHRUV,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT18-27,KOTIAN DHRUV,IoT Engineer,13.33,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT18-27,KOTIAN DHRUV,Embedded Engineer,12.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT18-27,KOTIAN DHRUV,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT18-27,KOTIAN DHRUV,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT18-27,KOTIAN DHRUV,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT20-27,MISHRA ANSH,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT20-27,MISHRA ANSH,Associate Software Engineer,0.0,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT20-27,MISHRA ANSH,Full Stack Developer,12.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT20-27,MISHRA ANSH,Backend Developer,8.57,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT20-27,MISHRA ANSH,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT20-27,MISHRA ANSH,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT20-27,MISHRA ANSH,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT20-27,MISHRA ANSH,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT20-27,MISHRA ANSH,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT20-27,MISHRA ANSH,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT20-27,MISHRA ANSH,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT25-27,DHARAM SHAH,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT25-27,DHARAM SHAH,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT25-27,DHARAM SHAH,Full Stack Developer,7.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT25-27,DHARAM SHAH,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT25-27,DHARAM SHAH,AI/ML Engineer,4.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT25-27,DHARAM SHAH,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT25-27,DHARAM SHAH,IoT Engineer,6.67,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT25-27,DHARAM SHAH,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT25-27,DHARAM SHAH,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT25-27,DHARAM SHAH,Web Designer,16.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT25-27,DHARAM SHAH,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT23-27,YASH PARAB,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT23-27,YASH PARAB,Associate Software Engineer,8.57,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT23-27,YASH PARAB,Full Stack Developer,0.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT23-27,YASH PARAB,Backend Developer,2.86,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT23-27,YASH PARAB,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT23-27,YASH PARAB,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT23-27,YASH PARAB,IoT Engineer,8.89,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT23-27,YASH PARAB,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT23-27,YASH PARAB,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT23-27,YASH PARAB,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT23-27,YASH PARAB,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT24-27,PINGE HERAMB,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT24-27,PINGE HERAMB,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT24-27,PINGE HERAMB,Full Stack Developer,7.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT24-27,PINGE HERAMB,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT24-27,PINGE HERAMB,AI/ML Engineer,20.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT24-27,PINGE HERAMB,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+23-IoT24-27,PINGE HERAMB,IoT Engineer,2.22,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT24-27,PINGE HERAMB,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT24-27,PINGE HERAMB,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT24-27,PINGE HERAMB,Web Designer,20.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT24-27,PINGE HERAMB,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT22-27,NAIK GAURAVI,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT22-27,NAIK GAURAVI,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT22-27,NAIK GAURAVI,Full Stack Developer,2.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT22-27,NAIK GAURAVI,Backend Developer,8.57,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT22-27,NAIK GAURAVI,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT22-27,NAIK GAURAVI,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT22-27,NAIK GAURAVI,IoT Engineer,11.11,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT22-27,NAIK GAURAVI,Embedded Engineer,12.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT22-27,NAIK GAURAVI,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT22-27,NAIK GAURAVI,Web Designer,4.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT22-27,NAIK GAURAVI,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT26-27,SHARMA ARNAV,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT26-27,SHARMA ARNAV,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT26-27,SHARMA ARNAV,Full Stack Developer,2.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT26-27,SHARMA ARNAV,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT26-27,SHARMA ARNAV,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT26-27,SHARMA ARNAV,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+23-IoT26-27,SHARMA ARNAV,IoT Engineer,2.22,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT26-27,SHARMA ARNAV,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT26-27,SHARMA ARNAV,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT26-27,SHARMA ARNAV,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT26-27,SHARMA ARNAV,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT28-27,TIWARI ASHUTOSH,Software Engineer,2.22,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT28-27,TIWARI ASHUTOSH,Associate Software Engineer,2.86,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT28-27,TIWARI ASHUTOSH,Full Stack Developer,5.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT28-27,TIWARI ASHUTOSH,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT28-27,TIWARI ASHUTOSH,AI/ML Engineer,4.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT28-27,TIWARI ASHUTOSH,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+23-IoT28-27,TIWARI ASHUTOSH,IoT Engineer,2.22,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT28-27,TIWARI ASHUTOSH,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT28-27,TIWARI ASHUTOSH,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT28-27,TIWARI ASHUTOSH,Web Designer,8.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT28-27,TIWARI ASHUTOSH,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT27-27,ANSHUMAN SINGH,Software Engineer,0.0,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT27-27,ANSHUMAN SINGH,Associate Software Engineer,0.0,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT27-27,ANSHUMAN SINGH,Full Stack Developer,0.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT27-27,ANSHUMAN SINGH,Backend Developer,0.0,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT27-27,ANSHUMAN SINGH,AI/ML Engineer,0.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT27-27,ANSHUMAN SINGH,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+23-IoT27-27,ANSHUMAN SINGH,IoT Engineer,8.89,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT27-27,ANSHUMAN SINGH,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT27-27,ANSHUMAN SINGH,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT27-27,ANSHUMAN SINGH,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT27-27,ANSHUMAN SINGH,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT29-27,SHIVANGI VISHWAKARMA,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT29-27,SHIVANGI VISHWAKARMA,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT29-27,SHIVANGI VISHWAKARMA,Full Stack Developer,7.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT29-27,SHIVANGI VISHWAKARMA,Backend Developer,8.57,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT29-27,SHIVANGI VISHWAKARMA,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT29-27,SHIVANGI VISHWAKARMA,Data Analyst,20.0,Python; SQL; Data Analytics; Communication
+23-IoT29-27,SHIVANGI VISHWAKARMA,IoT Engineer,6.67,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT29-27,SHIVANGI VISHWAKARMA,Embedded Engineer,4.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT29-27,SHIVANGI VISHWAKARMA,Cybersecurity Analyst,6.67,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT29-27,SHIVANGI VISHWAKARMA,Web Designer,8.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT29-27,SHIVANGI VISHWAKARMA,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT31-27,RAHUL YADAV,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT31-27,RAHUL YADAV,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT31-27,RAHUL YADAV,Full Stack Developer,7.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT31-27,RAHUL YADAV,Backend Developer,14.29,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT31-27,RAHUL YADAV,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT31-27,RAHUL YADAV,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+23-IoT31-27,RAHUL YADAV,IoT Engineer,11.11,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT31-27,RAHUL YADAV,Embedded Engineer,20.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT31-27,RAHUL YADAV,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT31-27,RAHUL YADAV,Web Designer,4.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT31-27,RAHUL YADAV,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT30-27,YADAV ANJALI,Software Engineer,8.89,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT30-27,YADAV ANJALI,Associate Software Engineer,8.57,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT30-27,YADAV ANJALI,Full Stack Developer,20.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT30-27,YADAV ANJALI,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT30-27,YADAV ANJALI,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT30-27,YADAV ANJALI,Data Analyst,15.0,Python; SQL; Data Analytics; Communication
+23-IoT30-27,YADAV ANJALI,IoT Engineer,6.67,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT30-27,YADAV ANJALI,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT30-27,YADAV ANJALI,Cybersecurity Analyst,10.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT30-27,YADAV ANJALI,Web Designer,20.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT30-27,YADAV ANJALI,Technical Support,12.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+24-IoT33-27,AYUSH MIRIKAR,Software Engineer,11.11,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+24-IoT33-27,AYUSH MIRIKAR,Associate Software Engineer,11.43,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+24-IoT33-27,AYUSH MIRIKAR,Full Stack Developer,15.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+24-IoT33-27,AYUSH MIRIKAR,Backend Developer,8.57,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+24-IoT33-27,AYUSH MIRIKAR,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+24-IoT33-27,AYUSH MIRIKAR,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+24-IoT33-27,AYUSH MIRIKAR,IoT Engineer,6.67,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+24-IoT33-27,AYUSH MIRIKAR,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+24-IoT33-27,AYUSH MIRIKAR,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+24-IoT33-27,AYUSH MIRIKAR,Web Designer,20.0,HTML; CSS; JavaScript; UI/UX; Figma
+24-IoT33-27,AYUSH MIRIKAR,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+24-IoT35-27,ABHISHEK SHARMA,Software Engineer,4.44,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+24-IoT35-27,ABHISHEK SHARMA,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+24-IoT35-27,ABHISHEK SHARMA,Full Stack Developer,0.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+24-IoT35-27,ABHISHEK SHARMA,Backend Developer,2.86,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+24-IoT35-27,ABHISHEK SHARMA,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+24-IoT35-27,ABHISHEK SHARMA,Data Analyst,0.0,Python; SQL; Data Analytics; Communication
+24-IoT35-27,ABHISHEK SHARMA,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+24-IoT35-27,ABHISHEK SHARMA,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+24-IoT35-27,ABHISHEK SHARMA,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+24-IoT35-27,ABHISHEK SHARMA,Web Designer,4.0,HTML; CSS; JavaScript; UI/UX; Figma
+24-IoT35-27,ABHISHEK SHARMA,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+24-IoT36-27,SHUKLA ROHAN,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+24-IoT36-27,SHUKLA ROHAN,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+24-IoT36-27,SHUKLA ROHAN,Full Stack Developer,5.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+24-IoT36-27,SHUKLA ROHAN,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+24-IoT36-27,SHUKLA ROHAN,AI/ML Engineer,16.0,Python; Data Science; SQL; Problem Solving
+24-IoT36-27,SHUKLA ROHAN,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+24-IoT36-27,SHUKLA ROHAN,IoT Engineer,0.0,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+24-IoT36-27,SHUKLA ROHAN,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+24-IoT36-27,SHUKLA ROHAN,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+24-IoT36-27,SHUKLA ROHAN,Web Designer,0.0,HTML; CSS; JavaScript; UI/UX; Figma
+24-IoT36-27,SHUKLA ROHAN,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+23-IoT32-27,YADAV SHWETA,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+23-IoT32-27,YADAV SHWETA,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+23-IoT32-27,YADAV SHWETA,Full Stack Developer,12.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+23-IoT32-27,YADAV SHWETA,Backend Developer,5.71,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+23-IoT32-27,YADAV SHWETA,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+23-IoT32-27,YADAV SHWETA,Data Analyst,15.0,Python; SQL; Data Analytics; Communication
+23-IoT32-27,YADAV SHWETA,IoT Engineer,11.11,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+23-IoT32-27,YADAV SHWETA,Embedded Engineer,8.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+23-IoT32-27,YADAV SHWETA,Cybersecurity Analyst,3.33,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+23-IoT32-27,YADAV SHWETA,Web Designer,12.0,HTML; CSS; JavaScript; UI/UX; Figma
+23-IoT32-27,YADAV SHWETA,Technical Support,4.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+24-IoT34-27,GUPTA HARSH,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+24-IoT34-27,GUPTA HARSH,Associate Software Engineer,8.57,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+24-IoT34-27,GUPTA HARSH,Full Stack Developer,5.0,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+24-IoT34-27,GUPTA HARSH,Backend Developer,2.86,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+24-IoT34-27,GUPTA HARSH,AI/ML Engineer,8.0,Python; AI/ML; Data Science; SQL; Problem Solving
+24-IoT34-27,GUPTA HARSH,Data Analyst,10.0,Python; SQL; Data Analytics; Communication
+24-IoT34-27,GUPTA HARSH,IoT Engineer,4.44,C; C++; Python; IoT; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+24-IoT34-27,GUPTA HARSH,Embedded Engineer,0.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+24-IoT34-27,GUPTA HARSH,Cybersecurity Analyst,0.0,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+24-IoT34-27,GUPTA HARSH,Web Designer,4.0,HTML; CSS; JavaScript; UI/UX; Figma
+24-IoT34-27,GUPTA HARSH,Technical Support,0.0,Communication; Computer Networks; SQL; Problem Solving; Linux
+24-IoT37-27,CHIRAG TAWADE,Software Engineer,6.67,Java; Python; DSA; OOP; SQL; DBMS; Git/GitHub; Problem Solving; Communication
+24-IoT37-27,CHIRAG TAWADE,Associate Software Engineer,5.71,Java; Python; DSA; SQL; OOP; Git/GitHub; Problem Solving
+24-IoT37-27,CHIRAG TAWADE,Full Stack Developer,7.5,HTML; CSS; JavaScript; React; Node.js; SQL; REST API; Git/GitHub
+24-IoT37-27,CHIRAG TAWADE,Backend Developer,11.43,Java; Spring Boot; REST API; SQL; DBMS; Git/GitHub; Cloud Computing
+24-IoT37-27,CHIRAG TAWADE,AI/ML Engineer,12.0,Python; AI/ML; Data Science; SQL; Problem Solving
+24-IoT37-27,CHIRAG TAWADE,Data Analyst,5.0,Python; SQL; Data Analytics; Communication
+24-IoT37-27,CHIRAG TAWADE,IoT Engineer,26.67,C; C++; Python; Embedded Systems; Arduino; ESP32; Sensors; MQTT
+24-IoT37-27,CHIRAG TAWADE,Embedded Engineer,12.0,C; C++; Embedded Systems; Sensors; Hardware Integration
+24-IoT37-27,CHIRAG TAWADE,Cybersecurity Analyst,6.67,Computer Networks; Linux; Cybersecurity; Cryptography; SOC/SIEM; Problem Solving
+24-IoT37-27,CHIRAG TAWADE,Web Designer,8.0,HTML; CSS; JavaScript; UI/UX; Figma
+24-IoT37-27,CHIRAG TAWADE,Technical Support,8.0,Communication; Computer Networks; SQL; Problem Solving; Linux
